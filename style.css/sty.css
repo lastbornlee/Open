@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #FFF7F0;
+    font-family: 'Rubik', sans-serif;
+}
+#head{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.up{
+    color: #FF8303;
+}
+#body{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 50px 70px;
+}
+#head{
+    padding: 10px 70px;
+}
+#right a{
+    text-decoration: none;
+    padding: 50px;
+    color: #0A0500; 
+    font-size: 8px;
+}
+#log{
+    padding: 6px 12px;
+    color: #FF8303;
+    border-radius: 8px;
+    border: 2px solid #FF8303;
+    background: none;
+    cursor: pointer;
+}
+.left{
+    padding: 30px 0px 30px 0px;
+}
+.get{
+    cursor: pointer;
+    padding: 6px 30px;
+    border-radius: 6px;
+    border: 1px solid #FF8303;
+    background-color: #FF8303;
+    color: #FFF7F0;
+    margin-right: 30px;
+}
+.us{
+    cursor: pointer;
+    padding: 6px 30px;
+    border-radius: 6px;
+    border: 2px solid #FF8303;
+    color: #FF8303;
+}
+.pain{
+    padding: 10px 100px 30px 0px;
+    text-align: left;
+}
+.your{
+    font-size: 18px;
+    color: #FF8303;
+}
+.are{
+    text-align: justify;
+    color: #1B1A17;
+    font-size: 18px;
+    width: 300px;
+    padding: 4px 0px;  
+}
+.ton{
+    text-align: left;
+}
+.mage{
+    padding: 10px 30px 20px 10px;
+}
+.but{
+    padding: 100px 50px 0px 50px;
+    text-align: left;
+}
+.mal{
+    cursor: pointer;
+    padding: 6px 100px 6px 0px;
+    border-radius: 6px;
+    border: 2px solid #EBAB2B;
+    background-color: #EBAB2B;
+    margin-right: 15px;
+}
+.sub{
+    cursor: pointer;
+    color: #FF8303;
+    border: 1px solid #FF8303;
+    border-radius: 4px;
+    padding: 4px 20px;
+}
